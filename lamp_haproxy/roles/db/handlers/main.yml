@@ -1,8 +1,0 @@
----
-# Handler to handle DB tier notifications
-
-- name: restart mysql
-  become: yes
-  become_method: sudo
-  service: name=mariadb state=restarted
-
