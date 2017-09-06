@@ -15,6 +15,5 @@ h2 {
 </header>
 <body>
      <h1>Web Server Hostname is: </h1> <h2> <?php $host= gethostname(); echo $host; ?> </h2>
-</body>:wq!
-     
+</body>
 </html>
