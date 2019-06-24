@@ -11,7 +11,7 @@ h2 {
         color: blue
 }
 </style>
-     <h1>2019-06-15 LAMP Stack and HA Proxy Load Balancer deployed via Ansible Tower for Ascena.</h1>
+     <h1>2019-06-15 LAMP Stack and HA Proxy Load Balancer deployed via Ansible Tower.</h1>
 </header>
 <body>
      <h1>Web Server Hostname is: </h1>
