@@ -11,7 +11,7 @@ h2 {
         color: blue
 }
 </style>
-     <h1>2022-08-16 LAMP Stack and HA Proxy Load Balancer deployed via Ansible Automation Platform.</h1>
+     <h1>2022-10-26 LAMP Stack and HA Proxy Load Balancer deployed via Ansible Automation Platform.</h1>
 </header>
 <body>
      <h1>Web Server Hostname is: </h1>
